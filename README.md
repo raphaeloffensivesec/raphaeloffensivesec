@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Bem Vindo(a)! | Welcome
 
-<!--
-**raphaeloffensivesec/raphaeloffensivesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)](https://media.discordapp.net/attachments/1408976122405720129/1408997677244616725/image.png?ex=68abc6d8&is=68aa7558&hm=5b5806eaa845ead516d8dd65d665e71417c114fc848efb2c1048161585032806&=&format=webp&quality=lossless)
 
-Here are some ideas to get you started:
+Sobre mim:
+--- 
+🔴 Entusiasta em hacking **RedTeam em aplicações web**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![redteam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksJkwwob0nqQ1cNyh41Z-5L4LdhCUUpjOoQ&s)
+
+---
+
+![perfil](https://media.discordapp.net/attachments/1408976122405720129/1409010367501176842/image.png?ex=68abd2a9&is=68aa8129&hm=9307e26ebc3428fdd3213f078b9ca81ca1e9552be6642bc13c53fc24dc8dcd93&=&format=webp&quality=lossless)
