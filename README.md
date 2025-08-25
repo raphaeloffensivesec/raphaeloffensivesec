@@ -1,6 +1,6 @@
 # 👋 Bem Vindo(a)! | Welcome
 
-📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)]([https://media.discordapp.net/attachments/1408976122405720129/1408997677244616725/image.png?ex=68abc6d8&is=68aa7558&hm=5b5806eaa845ead516d8dd65d665e71417c114fc848efb2c1048161585032806&=&format=webp&quality=lossless](https://cdn.discordapp.com/attachments/1408976122405720129/1408997677244616725/image.png?ex=68adc118&is=68ac6f98&hm=8325497f01d36758233f236529a40379b2afda3e038ca51ecdd292c61f3cb005&))
+📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)](https://media.discordapp.net/attachments/1408976122405720129/1408997677244616725/image.png?ex=68abc6d8&is=68aa7558&hm=5b5806eaa845ead516d8dd65d665e71417c114fc848efb2c1048161585032806&=&format=webp&quality=lossless](https://cdn.discordapp.com/attachments/1408976122405720129/1408997677244616725/image.png?ex=68adc118&is=68ac6f98&hm=8325497f01d36758233f236529a40379b2afda3e038ca51ecdd292c61f3cb005&)](https://media.discordapp.net/attachments/1408976122405720129/1408997677244616725/image.png?ex=68adc118&is=68ac6f98&hm=8325497f01d36758233f236529a40379b2afda3e038ca51ecdd292c61f3cb005&=&format=webp&quality=lossless)
 
 Sobre mim:
 --- 
