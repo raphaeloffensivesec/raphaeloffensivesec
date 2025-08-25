@@ -11,3 +11,6 @@ Sobre mim:
 ---
 
 ![perfil](https://media.discordapp.net/attachments/1408976122405720129/1409010367501176842/image.png?ex=68abd2a9&is=68aa8129&hm=9307e26ebc3428fdd3213f078b9ca81ca1e9552be6642bc13c53fc24dc8dcd93&=&format=webp&quality=lossless)
+
+<div style="display: inline_block"><br/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
