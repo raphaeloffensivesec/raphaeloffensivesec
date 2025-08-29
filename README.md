@@ -1,6 +1,5 @@
 # 👋 Bem Vindo(a)! | Welcome
-Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos e projetos em **cybersecurity**, com foco em **Red Team** e **aplicações web**. 🚀
-Sobre mim:
+> "Hacking is not just about breaking systems, it's about understanding them."  
 --- 
 Tenho 16 anos e sou apaixonado por segurança cibernética, com foco em **Red Team e aplicações web**. Atualmente estudo por meio de plataformas como TryHackMe, Udemy, Solyd e EBAC, sempre buscando aprimorar minhas habilidades técnicas e práticas. Meu objetivo é me tornar um profissional de Red Team e futuramente atuar para empresas estrangeiras na área de segurança ofensiva. Além disso, tenho inglês fluente e um grande interesse em bug bounty, pois acredito que a exploração ética de vulnerabilidades é uma forma poderosa de aprendizado e contribuição para a comunidade de segurança.  
 
