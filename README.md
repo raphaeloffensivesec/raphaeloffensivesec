@@ -10,7 +10,7 @@ Sobre mim:
 
 ---
 
-![perfil](https://files.catbox.moe/xs95v9.png)
+![perfil](https://files.catbox.moe/hs2i5c.png)
 
 # Technologies 💻
 <div style="display: inline_block"><br/>
