@@ -12,5 +12,6 @@ Sobre mim:
 
 ![perfil](https://files.catbox.moe/q00zjc.png)
 
+# Technologies 💻
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
