@@ -10,7 +10,7 @@ Sobre mim:
 
 ---
 
-![perfil]([https://anonfile.co/EesFP0DbjfuGAfW/file)
+![perfil]([https://files.catbox.moe/xs95v9.png)
 
 # Technologies 💻
 <div style="display: inline_block"><br/>
