@@ -1,6 +1,6 @@
 # 👋 Bem Vindo(a)! | Welcome
 
-📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)](https://cdn.discordapp.com/attachments/1408976122405720129/1409569525636006041/cybersecurity.png?ex=68addb6b&is=68ac89eb&hm=bd68efc72c487199692028db866e9dc7953e0ca7e12c7474aa1f59a68076791f&)
+📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)](https://files.catbox.moe/8vu081.png)
 
 Sobre mim:
 --- 
