@@ -8,7 +8,7 @@ Tenho 16 anos e sou apaixonado por segurança cibernética, com foco em **Red Te
 
 📃certificado no **tryhackme** cybersegurança ! [(certificado anexado)](https://files.catbox.moe/8vu081.png)
 ---
-![perfil](https://files.catbox.moe/hs2i5c.png)
+![perfil](https://files.catbox.moe/utl6hu.png)
 
 # Technologies 💻
 <div style="display: inline_block"><br/>
