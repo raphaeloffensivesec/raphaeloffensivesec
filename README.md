@@ -6,10 +6,6 @@ I am 18 years old and passionate about cybersecurity, with a focus on Red Team o
 ![redteam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksJkwwob0nqQ1cNyh41Z-5L4LdhCUUpjOoQ&s)
 
 
-📃Certificado no **TryHackMe** Jr Penetration Tester ! [(certificado anexado)](https://files.catbox.moe/a7ha9m.pdf)
----
-![perfil](https://files.catbox.moe/utl6hu.png)
-
 # Technologies 💻
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
