@@ -1,7 +1,7 @@
 # 👋 Bem Vindo(a)! | Welcome
 > "Hacking is not just about breaking systems, it's about understanding them."  
 --- 
-Tenho 18 anos e sou apaixonado por segurança cibernética, com foco em **Red Team e aplicações web**. Atualmente estudo por meio de plataformas como TryHackMe, Udemy, Solyd e EBAC, sempre buscando aprimorar minhas habilidades técnicas e práticas. Meu objetivo é me tornar um profissional de Red Team e futuramente atuar para empresas estrangeiras na área de segurança ofensiva. Além disso, tenho inglês fluente e um grande interesse em bug bounty, pois acredito que a exploração ética de vulnerabilidades é uma forma poderosa de aprendizado e contribuição para a comunidade de segurança.  
+I am 18 years old and passionate about cybersecurity, with a focus on Red Team operations and web application security. I am currently studying through platforms such as TryHackMe, Udemy, Solyd, and EBAC, constantly improving my technical knowledge and hands-on skills. My goal is to become a Red Team professional and eventually work for international companies in the offensive security field. In addition, I am fluent in English and have a strong interest in bug bounty programs, as I believe that the ethical discovery and exploitation of vulnerabilities is a powerful way to learn and contribute to the cybersecurity community.  
 
 ![redteam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksJkwwob0nqQ1cNyh41Z-5L4LdhCUUpjOoQ&s)
 
